@@ -1,0 +1,28 @@
+{
+  "name": "war-cli",
+  "version": "0.0.1",
+  "description": "\"Play the card game 'War' from the command line.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHoar/JS-DC-3-Lab01.git"
+  },
+  "keywords": [
+    "War",
+    "cards",
+    "cli",
+    "game"
+  ],
+  "author": "Sean Hoar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHoar/JS-DC-3-Lab01/issues"
+  },
+  "homepage": "https://github.com/SHoar/JS-DC-3-Lab01#readme",
+  "dependencies": {
+    "game-prompt": "0.0.3"
+  }
+}
